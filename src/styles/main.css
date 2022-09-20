@@ -1,0 +1,204 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+section {
+  width: 80%;
+  margin: auto;
+  margin-top: 5%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.container{
+  background-image: url(./shop.png);
+}
+
+.cards {
+  width: 250px;
+  padding: 20px;
+}
+.cards:hover {
+  box-shadow: 3px 5px 10px rgb(247, 246, 246) inset;
+  cursor: pointer;
+  background-color: rgb(62, 60, 60);
+  color: whitesmoke;
+  border: 1px solid rgb(168, 194, 26);
+}
+.image_box img {
+  width: 150px;
+  height: 200px;
+}
+
+.image_box img {
+  width: 150px;
+  height: 200px;
+}
+.details p:nth-child(1) {
+  font-weight: bold;
+}
+.details p:nth-child(2) {
+  color: grey;
+  font-size: 0.8rem;
+}
+.details p:nth-child(3) {
+  font-weight: bolx;
+  color: grey;
+}
+.details{
+  margin-top: 10px;
+}
+.details button{
+  padding: 5px 10px;
+  border: none;
+  font-weight: bold;
+  background-color: rgb(230, 223, 28);
+  outline: none;
+}
+.edit {
+  padding: 5px 10px;
+  border: none;
+  font-weight: bold;
+  background-color: black;
+  outline: none;
+  color: white;
+}
+.edit:hover {
+  padding: 5px 10px;
+  border: none;
+  font-weight: bold;
+  background-color: rgb(255, 255, 255);
+  outline: auto;
+  color: black;
+}
+.details button:hover{
+  outline: auto;
+}
+
+.sorter{
+  font-family: 'Fira Sans', sans-serif;
+  background-color: #082032;
+  color: aliceblue;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+.placer{
+  margin-top: 3px;
+  width: 80%;
+}
+
+.editor{
+  background-color: grey !important;
+}
+
+#transition-modal-title, #transition-modal-description{
+  font-family: 'Fira Sans', sans-serif !important;
+  font-weight: bold;
+}
+
+.buttoner{
+  display: flex !important;
+}
+
+.saver, .canceler {
+  font-family: 'Fira Sans', sans-serif !important;
+  padding: 5px !important;
+  display: flex !important;
+  justify-content: space-between !important;
+}
+
+.items{
+  height: 450px;
+  width: 350px;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 36px;
+  border: 1px solid darkgrey;
+}
+
+
+.title-item{
+  font-family: 'Fira Sans', sans-serif !important;
+  font-size:25px !important;
+  font-weight: bolder !important;
+}
+
+.title-des{
+  font-family: 'Fira Sans', sans-serif !important;
+  font-size: 12px !important;
+  color: rgb(88, 85, 85);
+}
+
+#profile{
+  width: 40px;
+}
+
+.item-head{
+  text-align: center !important;
+}
+
+.cart-adder:hover{
+  color: #6867AC;
+  background-color: aliceblue;
+}
+
+.css-et1ao3-MuiTypography-root {
+  margin: 0;
+  font-family: 'Fira Sans', sans-serif !important;
+  font-weight: bolder !important;
+  font-size: 18px !important;
+  line-height: 1.43;
+  letter-spacing: 0.01071em;
+  display: block;
+}
+
+.fillup{
+  font-family: 'Fira Sans', sans-serif !important;
+  margin: auto !important;
+  margin-top: 20px !important;
+  padding: 40px  !important;
+  background-color: grey !important;
+  color: aliceblue !important;
+  font-weight: bolder !important;
+}
+
+.imager{
+  margin-top: 30px !important;
+}
+
+.fields{
+  width: 80% !important;
+  background-color: aliceblue;
+}
+
+.creator{
+  padding: 8px !important;
+  font-family: 'Fira Sans', sans-serif !important;
+  font-weight: bolder !important;
+  background-color: #42855B !important;
+  border: 1px solid #13351f;
+  color: aliceblue;
+}
+
+.menur{
+  font-family: 'Fira Sans', sans-serif !important;
+}
+
+.detailing{
+  font-family: 'Fira Sans', sans-serif !important;
+  background-color: grey;
+  width: 50%;
+  margin: auto;
+  color: aliceblue;
+  padding: 8px;
+  line-height: 30px;
+}
+
+.adder{
+  padding: 10px;
+  background-color: #42855B;
+  color: aliceblue;
+  border: 1px solid green;
+}

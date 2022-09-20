@@ -1,0 +1,66 @@
+{
+  "name": "ecommerce-website",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.10.6",
+    "@mui/lab": "^5.0.0-alpha.100",
+    "@mui/material": "^5.10.6",
+    "@reduxjs/toolkit": "^1.8.5",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.4.3",
+    "axios": "^0.27.2",
+    "bootstrap5": "^1.1.9",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.2.0",
+    "react-fullscreen-loading": "^0.0.4",
+    "react-placeholder-loading": "^0.5.30",
+    "react-rangeslider": "^2.2.0",
+    "react-redux": "^8.0.2",
+    "react-router": "^6.4.0",
+    "react-router-dom": "^6.4.0",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^9.0.8",
+    "redux": "^4.2.0",
+    "redux-persist": "^6.0.0",
+    "toastify": "^2.0.1",
+    "web-vitals": "^3.0.2"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "Created an ecommerce website using 1) React.js 2) Redux.js (Persist Redux) 3) MaterialUI 4) Bootstrap 5) extra library packages",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Swapnil Roy",
+  "license": "ISC"
+}

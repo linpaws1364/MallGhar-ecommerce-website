@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.page-head, .styler{
+  font-family: 'Righteous', cursive !important;
+}
+
+.page-head{
+  text-shadow: 4px 5px #063217;
+  font-size: 30px;
+}
+
+.styler{
+  margin-left: 300px !important;
+  border: 1px solid #063217;
+  box-shadow: 5px 5px #063217;
+  padding: 5px;
+}
+
+.iconer{
+  width: 50px;
+  height: 50px;
+}
+
+.shopping{
+  width: 50px;
+  height: 50px;
+  margin-right: 5px;
+}
+
+.navbar {
+  width: 100%;
+  height: 70px;
+  background-color: #42855B;
+}
+
+.nav_box {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cart {
+  cursor: pointer;
+}
+
+.cart span:nth-child(1) {
+  font-size: 2rem;
+  color: white;
+}
+
+.cart span:nth-child(2) {
+  padding: 0 3px;
+  background-color: #F0A500;
+  color: black;
+  font-weight: bold;
+  border-radius: 5px;
+  position: relative;
+  top: -15px;
+}
