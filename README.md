@@ -1,4 +1,4 @@
-# MallGhar - Aapne Ghar ka Mall (An Ecommerce website made using ReactJS and Redux)
+# MallGhar - Aapne Ghar ka Mall (An Ecommerce website made using ReactJs and Redux)
 
 Please use the following link to access live project - https://swapnilroy-mallghar.netlify.app/
 
