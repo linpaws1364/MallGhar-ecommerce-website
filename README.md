@@ -1,3 +1,46 @@
+# Functionality
+
+1. Navbar
+Show cart items count
+Show relevant navigation links
+
+2. All products page
+Show list of products from the API (using the above server)
+Each product is editable by clicking on the “pencil” button. And we can edit that product inline. On finish editing the product, show some sort of Alert/Notification
+Each product is deletable, on clicking of the delete button you should delete the product and show some sort of Alert/Notification
+Implement a sort button. On clicking it should sort by “price” and show a cross button just beside it (see the sort view). On clicking the cross button remove the sort.
+Give button to add a product to cart
+
+3.Create page
+On clicking of the Add button add the product in the DB, and show some sort of Alert/Notification
+
+4.Product detail page
+Show all the details of a product
+Give button to add a product to cart
+
+5.Cart page
+Show all the items in the cart
+
+# Screenshots
+
+Home Page
+![MallGhar - Aapne Ghar ka Mall](https://user-images.githubusercontent.com/101203567/191360636-9a2643a3-15de-4751-92da-4425af906845.png)
+
+Add Product Page
+![MallGhar - Aapne Ghar ka Mall (1)](https://user-images.githubusercontent.com/101203567/191361424-7f6b4d74-e452-4760-bee5-1b18bcb51a6c.png)
+
+![MallGhar - Aapne Ghar ka Mall (2)](https://user-images.githubusercontent.com/101203567/191361422-c2a7b0f6-a9bd-4ce0-9808-7d0325f8f0d2.png)
+
+![MallGhar - Aapne Ghar ka Mall (3)](https://user-images.githubusercontent.com/101203567/191361420-c70ec0c9-6c9d-486a-a5f4-6477ac3a6fab.png)
+
+![MallGhar - Aapne Ghar ka Mall (4)](https://user-images.githubusercontent.com/101203567/191361415-3481fda1-37f7-47fa-b93f-12303f83def0.png)
+
+![MallGhar - Aapne Ghar ka Mall (5)](https://user-images.githubusercontent.com/101203567/191361410-0b267fb6-84b0-46e0-9b73-4e27c73c7100.png)
+
+Product Detail Page
+![MallGhar - Aapne Ghar ka Mall (6)](https://user-images.githubusercontent.com/101203567/191361672-ce61ffc5-518a-4181-97f3-2b174da4bd11.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
