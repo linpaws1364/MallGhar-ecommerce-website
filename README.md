@@ -1,4 +1,8 @@
-# Functionality
+# MallGhar - Aapne Ghar ka Mall (An Ecommerce website made using ReactJS and Redux)
+
+Please use the following link to access live project - https://swapnilroy-mallghar.netlify.app/
+
+# Functionality 
 
 1. Navbar
 Show cart items count
@@ -29,12 +33,16 @@ Home Page
 Add Product Page
 ![MallGhar - Aapne Ghar ka Mall (1)](https://user-images.githubusercontent.com/101203567/191361424-7f6b4d74-e452-4760-bee5-1b18bcb51a6c.png)
 
+Home Page (Price Sort Applied)
 ![MallGhar - Aapne Ghar ka Mall (2)](https://user-images.githubusercontent.com/101203567/191361422-c2a7b0f6-a9bd-4ce0-9808-7d0325f8f0d2.png)
 
+Edit and Delete Menu
 ![MallGhar - Aapne Ghar ka Mall (3)](https://user-images.githubusercontent.com/101203567/191361420-c70ec0c9-6c9d-486a-a5f4-6477ac3a6fab.png)
 
+Edit Details Page
 ![MallGhar - Aapne Ghar ka Mall (4)](https://user-images.githubusercontent.com/101203567/191361415-3481fda1-37f7-47fa-b93f-12303f83def0.png)
 
+Cart Page
 ![MallGhar - Aapne Ghar ka Mall (5)](https://user-images.githubusercontent.com/101203567/191361410-0b267fb6-84b0-46e0-9b73-4e27c73c7100.png)
 
 Product Detail Page
